@@ -284,3 +284,6 @@ Xem thêm documentation:
 
 Archive (Pushgateway solutions - không dùng nữa):
 - `archive/` - Các scripts cũ
+
+
+- Phát triển ý tưởng bởi THDIEP16 - tranhoangdiepbp@gmail.com
